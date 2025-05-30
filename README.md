@@ -23,3 +23,6 @@ The 2025 dataset 🗃️ is an extended version of the HyperKvasir dataset 🔗 
 🏃 Subtask 1: Question Interpretation and Response
 📊 Metrics: 📘 METEOR, 📖 ROUGE (1/2/L), and 🧠 BLEU.
 📜 Evaluation: Based on correctness ✅ and relevance 📝 of answers using the provided questions 💬 and images 🖼️.
+
+
+# Hugging Face Link: Trained Model [https://huggingface.co/laxuu/Florence-2-vqa_final]
